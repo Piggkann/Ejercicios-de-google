@@ -1,0 +1,56 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding left: 15px;
+	padding-top: 15px;
+	height: 20px;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #544445;
+}
+
+header a {
+	color: gray;
+	text-decoration: none;
+	vertical-align: middle;
+	margin: 0 10px;
+}
+
+header a:hover {
+	text-decoration: underline;
+}
+
+header img {
+	margin: 0 10px;
+	height: 20px;
+	vertical-align: middle;
+}
+
+.profile {
+	height: 35px;
+	margin: 0 20px 0 0;
+}
+
+section {
+	text-align: center;
+	margin-top: 70px;
+}
+
+.imagen2 {
+	width: 400px;
+}
+
+.input1 {
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+	height: 30px;
+}
+
+
